@@ -1,0 +1,10 @@
+{
+  "name": "create-astnai",
+  "version": "1.0.0",
+  "description": "a modern builder with dependencies using the nickname 'astnai'.",
+  "bin": {
+    "create-astnai": "index.js"
+  },
+  "author": "Agustín Arias",
+  "license": "MIT"
+}
